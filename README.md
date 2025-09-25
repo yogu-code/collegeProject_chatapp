@@ -1,1 +1,1 @@
-# collageProject_chatapp
+# collegeProject_chatapp
